@@ -15,7 +15,7 @@ Para obtener informacion de como acceder al server _(obtener IP)_ pongase en con
 A continuacion una pequeña guia de como poner el servidor:
 
 ### PASO 1
-Una vez instalado su launcher de preferencias abralo
+Una vez instalado su launcher de preferencias abralo  
 ![Texto aquí](https://github.com/SebasWolf214/EspartanoCraft/blob/main/assets/01.png)
 
 ### PASO 2
