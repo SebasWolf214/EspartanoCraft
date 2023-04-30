@@ -15,7 +15,7 @@ Para obtener informacion de como acceder al server _(obtener IP)_ pongase en con
 A continuacion una pequeña guia de como poner el servidor:
 
 ### PASO 1
-
+(https://github.com/SebasWolf214/EspartanoCraft/main/assets/01.png)
 
 
 
