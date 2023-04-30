@@ -15,7 +15,7 @@ Para obtener informacion de como acceder al server _(obtener IP)_ pongase en con
 A continuacion una pequeña guia de como poner el servidor:
 
 ### PASO 1
-Una vez instalado su launcher de preferencias abralo  
+Una vez instalado su launcher de preferencia inicielo  
 ![Texto aquí](https://github.com/SebasWolf214/EspartanoCraft/blob/main/assets/01.png)
 
 ### PASO 2
@@ -43,8 +43,11 @@ Enhorabuena ya ha terminado de configurar su servidor, solo de click sobre este 
 
 
 ### EXTRA
-Este servidor esta monitoreado con un plugin para la personalizacion de skins en este caso le dejamos [Aquí] un tutorial ya que no es el proposito de este reposiorio
+Este servidor cuenta con un plugin para la personalizacion de skins en este caso le dejamos [Aquí] un tutorial para su uso.
+
+## DISCLAIMER
+No se que se pone en un disclaimer pero no fomenten la pirateria
 
 
 [SKLaucher]:https://skmedix.pl/downloads
-[Aquí]:https://www.youtube.com/watch?v=LqGKgnG5JV4&t=130s
+[Aquí]:https://www.youtube.com/watch?v=LqGKgnG5JV4&t
