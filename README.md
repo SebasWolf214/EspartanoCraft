@@ -6,6 +6,6 @@ Guia pa jugar en el Espartano Server - Minecraft (2023)
 
 - [SKLaucher] recomendado por el admin
 
-[//]:
+
 
 [SKLaucher]:https://skmedix.pl/downloads
