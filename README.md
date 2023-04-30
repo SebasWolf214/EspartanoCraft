@@ -24,14 +24,14 @@ Y de click en donde dice Jugar _(En este caso no sera necesario cambiar de versi
 ![Texto aquí](https://github.com/SebasWolf214/EspartanoCraft/blob/main/assets/02.png)
 
 ### PASO 3
-Una vez abierto el juego vaya a multijugador
+Una vez abierto el juego vaya a multijugador  
 ![Texto aquí](https://github.com/SebasWolf214/EspartanoCraft/blob/main/assets/03.png)
 
 ### PASO 4
-Luego proceda a añadir el servidor en el boton de servidor
+Luego proceda a añadir el servidor en el boton de servidor  
 ![Texto aquí](https://github.com/SebasWolf214/EspartanoCraft/blob/main/assets/04.png)
 
-### PASO 5
+### PASO 5  
 En este momento debera ingresar el nombre que le de la gana en el campo nombre del servidor
 y la direccion IP que debio preguntar al admin en el campo direccion del servidor
 
