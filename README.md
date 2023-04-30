@@ -6,6 +6,18 @@ Guia pa jugar en el Espartano Server - Minecraft (2023)
 
 - [SKLaucher] recomendado por el admin
 
+- Crearte una cuenta en la pagina de SKLauncher
+
+## SERVER
+Para obtener informacion de como acceder al server _(obtener IP)_ pongase en contacto con alguno de los administradores atra vez de un grupo de WhatsApp o Discord.
+
+## GUIA
+A continuacion una pequeña guia de como poner el servidor:
+
+### PASO 1
+
+
+
 
 
 [SKLaucher]:https://skmedix.pl/downloads
